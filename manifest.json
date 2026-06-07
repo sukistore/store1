@@ -7,15 +7,14 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://i.ibb.co.com/vvmqsjBd/20260607-161411.jpg",
+      "src": "https://i.ibb.co.com/0jpwL1jH/20260607-164809.png",
       "sizes": "192x192",
-      "type": "image/jpeg"
+      "type": "image/png"
     },
     {
-      "src": "https://i.ibb.co.com/yF5Lk2pQ/20260607-161426.jpg",
+      "src": "https://i.ibb.co.com/mC7D9FCp/20260607-164831.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/png"
     }
   ]
 }
-
