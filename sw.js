@@ -1,10 +1,10 @@
-const CACHE_NAME = 'suki-store-9';
+const CACHE_NAME = 'suki-store-10';
 const ASSETS = [
   './',
   './index.html',
   './manifest.json',
-  './20260612_095930.png',
-  './20260612_095942.png'
+  './20260612_102828.png',
+  './20260612_102835.png'
 ];
 
 self.addEventListener('install', (event) => {
