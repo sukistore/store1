@@ -1,4 +1,4 @@
-const CACHE_NAME = 'suki-store-24';
+const CACHE_NAME = 'suki-store-25';
 const ASSETS = [
   './',
   './index.html',
